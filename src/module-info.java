@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author VieYoun
+ *
+ */
+module MapReduce {
+	
+}
